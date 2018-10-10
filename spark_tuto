@@ -4,3 +4,14 @@ spark docs:
 spark docs by version: 
   https://spark.apache.org/docs/1.6.0/
   https://spark.apache.org/docs/2.2.0/
+
+self learning site:
+  building-logistic-regression-models
+  https://campus.datacamp.com/courses/foundations-of-predictive-analytics-in-python-part-1/
+  getting-to-know-pyspark
+  https://campus.datacamp.com/courses/introduction-to-pyspark/
+
+
+use case:
+  Spark data frames from CSV files: handling headers & column types
+  https://www.nodalpoint.com/spark-data-frames-from-csv-files-handling-headers-column-types/
